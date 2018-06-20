@@ -3,15 +3,14 @@ body {
 }
 
 .stream {
-	margin: 10px;
+	margin: .5%;
 	background-color: #003f9e;
-
 }
 
 .bornstream {
 	display: block;
 	margin: 0 auto;
-
+	background-color: #003f9e;
 }
 
 .made {
@@ -55,3 +54,10 @@ body {
 	display: block;
 	margin: 5px auto;
 }
+
+.sure{
+	color: #f44242;
+	text-align: center;
+
+}
+
